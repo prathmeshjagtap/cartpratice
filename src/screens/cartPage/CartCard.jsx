@@ -44,14 +44,6 @@ function CartCard({ product }) {
 					<h6 className="text-sm font-medium text-gray-900">
 						⭐ {product?.rating}
 					</h6>
-					<h6 className="text-sm font-medium text-gray-900">
-						Sizes{" "}
-						{product?.sizes.map((size) => (
-							<span key={size} className="m-2">
-								{size}
-							</span>
-						))}
-					</h6>
 					<div className="flex gap-1">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
