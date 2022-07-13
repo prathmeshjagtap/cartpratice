@@ -106,6 +106,14 @@ function CartCard({ product }) {
 							Save for Later
 						</button>
 					)}
+					<button
+						className="p-2 bg-blue-500 m-1 rounded-md text-white text-center  w-full%"
+						onClick={() => {
+							setCart(cart.filter((item) => item.id !== product.id));
+						}}
+					>
+						Remove Item
+					</button>
 				</div>
 			</div>
 		</div>
