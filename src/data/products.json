@@ -1,0 +1,132 @@
+{
+	"products": [
+		{
+			"id": "1",
+			"name": "Men Slim Fit Solid Spread Collar Casual Shirt",
+			"brand": "Highlander",
+			"idealFor": ["Men"],
+			"originalPrice": 1249,
+			"discount": 56,
+			"discountedPrice": 549,
+			"rating": 4,
+			"sizes": ["S", "M", "L", "XL"],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/kfoapow0-0/shirt/8/q/j/l-hlsh010647-highlander-original-imafw2gpcsa2jya9.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/k70spzk0/shirt/p/m/a/m-hlsh010647-highlander-original-imafpchtzzxekhkj.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/k70spzk0/shirt/p/m/a/m-hlsh010647-highlander-original-imafpchtk4ye8m3h.jpeg?q=50"
+			]
+		},
+		{
+			"id": "8",
+			"name": "Casual Regular Sleeves Self Design Women Pink Top ",
+			"brand": "Here & Now",
+			"idealFor": ["Women"],
+			"originalPrice": 1399,
+			"discount": 68,
+			"discountedPrice": 439,
+			"rating": 3.3,
+			"sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/kz1lle80/top/6/d/y/-original-imagb55ez9jzshzm.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kz1lle80/top/u/p/v/-original-imagb55esdcvk9b7.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kz1lle80/top/l/5/c/-original-imagb55ezmywzp97.jpeg?q=50"
+			]
+		},
+		{
+			"id": "2",
+			"name": "Men Slim Fit Printed Casual Shirt Collar Casual Shirt",
+			"brand": "Highlander",
+			"idealFor": ["Men"],
+			"originalPrice": 1049,
+			"discount": 52,
+			"discountedPrice": 527,
+			"rating": 4.1,
+			"sizes": ["S", "M", "L", "XL"],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/kbpeoi80/shirt/0/i/s/xl-hlsh011664-highlander-original-imafszkeyjzbux58.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kbpeoi80/shirt/m/3/d/xl-hlsh011664-highlander-original-imafszkecpxatvbk.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kbpeoi80/shirt/d/m/e/xl-hlsh011664-highlander-original-imafszkeqfyyqgut.jpeg?q=50"
+			]
+		},
+		{
+			"id": "7",
+			"name": "Women Floral Print Cotton Blend A-line Kurta",
+			"brand": "Myaza",
+			"idealFor": ["Women"],
+			"originalPrice": 1999,
+			"discount": 75,
+			"discountedPrice": 494,
+			"rating": 3.9,
+			"sizes": ["S", "M", "L", "XXL"],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/kcxpbww0/kurta/s/h/e/s-m394-myaza-original-imaftyf3aab7yh5x.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kcxpbww0/kurta/j/m/y/s-m394-myaza-original-imaftyf4scwp4d4p.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/kcxpbww0/kurta/u/m/z/l-m394-myaza-original-imaftyf3dphfc4bz.jpeg?q=50"
+			]
+		},
+		{
+			"id": "3",
+			"name": "Men Regular Fit Checkered Spread Collar Casual Shirt",
+			"brand": "Roadster",
+			"idealFor": ["Men"],
+			"originalPrice": 999,
+			"discount": 40,
+			"discountedPrice": 599,
+			"rating": 4.1,
+			"sizes": ["M"],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/k8ddoy80/shirt/k/z/x/38-11326992-roadster-original-imafqefus9hgfaq6.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/k8ddoy80/shirt/k/z/x/38-11326992-roadster-original-imafqefuj3c7hh96.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/k8ddoy80/shirt/k/z/x/42-11326992-roadster-original-imafqefuyytwfqjf.jpeg?q=50"
+			]
+		},
+		{
+			"id": "4",
+			"name": "Men Slim Fit Self Design Slim Collar Casual Shirt",
+			"brand": "Allen Solly",
+			"idealFor": ["Men"],
+			"originalPrice": 1499,
+			"discount": 40,
+			"discountedPrice": 899,
+			"rating": 3.9,
+			"sizes": ["M"],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/jy0frm80/shirt/m/9/c/39-assfwspf126551-allen-solly-original-imafg3rswgfnvsha.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/jy0frm80/shirt/m/9/c/39-assfwspf126551-allen-solly-original-imafg3rssjzjxh49.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/jy0frm80/shirt/m/9/c/39-assfwspf126551-allen-solly-original-imafg3rskvz9tgzb.jpeg?q=50"
+			]
+		},
+		{
+			"id": "5",
+			"name": "Women Floral Print Viscose Rayon A-line Kurta",
+			"brand": "Stylum",
+			"idealFor": ["Women"],
+			"originalPrice": 1999,
+			"discount": 75,
+			"discountedPrice": 499,
+			"rating": 4.2,
+			"sizes": ["S", "M", "L", "XL", "XXL"],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/l2z26q80/kurta/q/2/5/m-fionaaqua-stylum-original-image7fypzzhuezq.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/l2z26q80/kurta/a/i/7/m-fionaaqua-stylum-original-image7fyqavvzuva.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/l2z26q80/kurta/e/l/r/m-fionaaqua-stylum-original-image7fywkzkhu7f.jpeg?q=50"
+			]
+		},
+		{
+			"id": "6",
+			"name": "Women Kurta and Palazzo Set Pure Cotton",
+			"brand": "Libas",
+			"idealFor": ["Women"],
+			"originalPrice": 1119,
+			"discount": 60,
+			"discountedPrice": 2799,
+			"rating": 4.3,
+			"sizes": ["XS", "S", "M", "L", "XXL"],
+			"images": [
+				"https://rukminim1.flixcart.com/image/880/1056/ks243gw0/ethnic-set/w/v/i/xl-20124o-pink-libas-original-imag5pxxgmshgwyx.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/ks243gw0/ethnic-set/s/6/9/xl-20124o-pink-libas-original-imag5pxxwbeh7ewy.jpeg?q=50",
+				"https://rukminim1.flixcart.com/image/880/1056/ks243gw0/ethnic-set/y/c/e/xl-20124o-pink-libas-original-imag5pxxyqrc3mch.jpeg?q=50"
+			]
+		}
+	]
+}
