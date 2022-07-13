@@ -1,9 +1,14 @@
 import "./App.css";
-
+import { Products, Cart, WishList } from "./screens";
+import { Routes, Route } from "react-router-dom";
 function App() {
 	return (
 		<div>
-			<h1 className="text-3xl font-bold  text-center">Cart Functionality</h1>
+			<Routes>
+				<Route path="/" element={<Products />} />
+				<Route path="/cart" element={<Cart />} />
+				<Route path="/wishlist" element={<WishList />} />
+			</Routes>
 		</div>
 	);
 }
